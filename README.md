@@ -31,6 +31,7 @@ O foco está em fortalecer a lógica de programação, compreender estruturas da
 * Python
 * VS Code
 * Git & GitHub
+* Docker
 
 ---
 
