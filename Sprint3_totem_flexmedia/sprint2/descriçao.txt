@@ -1,0 +1,3 @@
+As sprints 1 e 2 de python foram realizadas por outro membro do grupo(KORA), eu (João Victor) acabei tomando a frente para
+finalizar as sprints 3 e 4 desse ano, eu acabei puxando da sprint 2 na qual o projeto esta intitulado como "projeto02.py", 
+acabei separando ele e colocando nessa pasta para falicitar mais a compreensão.

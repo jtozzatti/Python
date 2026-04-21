@@ -1,0 +1,17 @@
+O que foi feito em cada arquivo:
+
+funcoes.py contém todas as funções pedidas na sprint:
+
+-carregar_dados() — lê o dados.json ao iniciar; se não existir ou estiver corrompido, começa vazio
+-salvar_dados(lista) — grava no dados.json sempre que há mudança
+-adicionar_informacao(lista) — igual o "projeto02", agora também salva
+-listar_informacoes(lista) — igual à "projeto02"
+-pesquisar_por_tipo(lista) — igual à "projeto02"
+-editar_informacao(lista) — mostra o valor atual, enter mantém, valida o tipo
+-excluir_informacao(lista) — pede confirmação s/n antes de deletar
+
+main.py só tem o menu e chama as funções, apenas o codigo em si para fazer rodar.
+
+O arquivo dados.json é criado automaticamente na primeira vez que você cadastrar algo.
+
+OBS: coloquei as # nos codigos para facilitar em estudos futuro, como e o que cada função esta fazendo.
